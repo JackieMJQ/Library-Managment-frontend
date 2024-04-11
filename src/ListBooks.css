@@ -1,0 +1,21 @@
+.container {
+    margin: 20px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
